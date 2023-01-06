@@ -1,5 +1,7 @@
 # Quote Generator
-A quote generator  with a twitter sharing button that displays a random quote to the user every time they press a button.
+A quote generator  with a twitter sharing button that displays a random quote to the user every time they press a button.   
+
+[Quote Generator Link](https://atanasovavanya.github.io/quote-generator-project/)
 
 The topics covered in this project:
 
