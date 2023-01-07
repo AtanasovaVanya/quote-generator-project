@@ -3,7 +3,7 @@ A quote generator  with a twitter sharing button that displays a random quote to
 
 [View Live](https://atanasovavanya.github.io/quote-generator-project/)
 
-The topics covered in this project:
+Concepts covered in this project:
 
 - Querying, Manipulating the DOM
 - Handling DOM events
